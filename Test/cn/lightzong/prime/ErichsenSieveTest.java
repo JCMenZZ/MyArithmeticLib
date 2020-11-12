@@ -2,7 +2,7 @@ package cn.lightzong.prime;
 
 import org.junit.Test;
 
-public class ErichsenSieveMethodTest {
+public class ErichsenSieveTest {
 
     @Test
     public void isPrime() {
