@@ -17,7 +17,8 @@ public class StringSort implements StringSortPort {
     protected static final String SPACE_SEPARATOR = " ";
 
     /**
-     * 字符串排序驱动 排序方法如下：1.将字符串变成字符串数组
+     * 字符串排序驱动 排序方法如下：
+     * 1.将字符串变成字符串数组
      * 2.将字符串数组变成int数组
      * 3.对int数组进行排序
      * 4.将排序后的数组变成字符串
